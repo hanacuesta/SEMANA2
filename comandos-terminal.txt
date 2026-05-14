@@ -1,0 +1,20 @@
+git add .
+git commit -m "Actividad semana 2"
+git push
+git config --global user.name "johana romaña"
+git config --global user.email "hanacuesta4@gmail.com"
+
+cd Desktop\PPP2
+mkdir semana2
+cd semana2
+
+type nul > preguntas-semana2.txt
+type nul > comandos-terminal.txt
+type nul > reflexion-semana2.txt
+
+git init
+git add .
+git commit -m "Semana 2 creada"
+git remote add origin https://github.com/hanacuesta/SEMANA2.git
+git branch -M main
+git push -u origin main

@@ -1,0 +1,1 @@
+Es importante porque la terminal permite trabajar de forma más rápida y organizada dentro de un proyecto, facilitando la creación, edición y administración de archivos y carpetas. Además, muchas herramientas de desarrollo y Git se manejan desde la terminal.
